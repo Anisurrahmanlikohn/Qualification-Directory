@@ -1,2 +1,2 @@
 # Qualification-Directory
-https://anisurrahmanlikohn.github.io/Qualification-Directory/
+https://anisurrahmanlikhon.github.io/Qualification-Directory/
