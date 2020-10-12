@@ -10,7 +10,7 @@
 <div class="container">
 <br />
 <br />
-<h2 align="center">Add or Remove Your Qualification</a></h2><br />
+<h2 align="center">Add or Remove Your Qualification</h2><br />
 <div class="form-group">
 <form name="add_name" id="add_name">
 <div class="table-responsive">
